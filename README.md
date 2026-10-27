@@ -33,7 +33,7 @@ NumPy - Mathematical operations
 
 INSTALLATION & SETUP
 Clone the repository:
-git clone https://github.com/your-username/driver-drowsiness-detection.git
+git clone [https://github.com/your-username/driver-drowsiness-detection.git](https://github.com/daiphuc-engineer/drowsiness-system/tree/main)
 cd driver-drowsiness-detection
 
 Install the required Python libraries:
